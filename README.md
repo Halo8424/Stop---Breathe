@@ -2,7 +2,7 @@
 
 ## Application Overview 
 A mobile-friendly application built to reduce stress and anxiety, and all you need to do is Stop & Breathe. 
-[a link](https://halo8424.github.io/Stop---Breathe/) __Refresh Page If Javascript timeing is off__
+[Live Demo](https://halo8424.github.io/Stop---Breathe/) __Refresh Page If Javascript timeing is off__
 
 ### How it works 
 
