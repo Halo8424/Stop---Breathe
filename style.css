@@ -93,5 +93,18 @@ body {
         transform: rotate(360deg);
     }
 }
+ 
+/* Grow container animation  */
+.container.grow {
+    animation: grow 3s linear forwards;
+}
 
+@keyframes grow {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.2);
+    }
+}
 
