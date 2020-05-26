@@ -16,3 +16,8 @@ _You Hold Your Breath When Promted_
 _You Then Exhale When Promted_
 
 <img src="img/breath out.png" width=300>
+
+## Technologies Used
+* HTML
+* CSS
+* JavaScript
