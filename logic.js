@@ -15,7 +15,7 @@ breathAnimation();
 
 // Function breathe animation
 function breathAnimation(){
-    console.log('Breathe In!');
+    text.innerText = 'Breathe In!';
 
     setTimeout(() => {
         console.log('Hold');
