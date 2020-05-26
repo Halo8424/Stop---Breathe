@@ -29,4 +29,4 @@ function breathAnimation(){
 
 }
 // Calls breathAnimation 
-setInterval(breathAnimation, totalTime);
+setInterval(breathAnimation, totalTime); 
