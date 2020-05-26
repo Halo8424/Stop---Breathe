@@ -18,10 +18,10 @@ function breathAnimation(){
     text.innerText = 'Breathe In!';
 
     setTimeout(() => {
-        text.innerText = 'Hold';
+        text.innerText = 'Hold!';
 
         setTimeout(()=>{
-            console.log('Breathe Out!')
+            text.innerText = 'Breathe Out!'
         }, holdTime);
     }, breatheTime);
 
