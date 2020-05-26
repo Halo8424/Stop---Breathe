@@ -1,23 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
     <title>Stop & Breathe</title>
-</head>
-<body>
+  </head>
+  <body>
     <h1>Stop & Breathe</h1>
 
     <!-- Container -->
     <div class="container" id="container">
-        <!-- circle div -->
-        <div class="circle">
-            <!-- Dynamic Text Area -->
-            <p id="idtext"></p>
-        </div>
+      <!-- circle div -->
+      <div class="circle"></div>
+
+      <!-- Dynamic Text Area -->
+      <p id="idtext">Breathe In!</p>
+
+      <!-- Small Circle Container -->
+      <div class="pointer-container">
+
+        <!-- pointer container -->
+        <span class="pointer"></span>
+
+      </div>
+      <!-- Large Circle -->
+      <div class="gradient-circle"></div>
+
     </div>
-    
+
     <script src="logic.js"></script>
-</body>
+  </body>
 </html>
