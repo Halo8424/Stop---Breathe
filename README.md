@@ -8,3 +8,11 @@ A mobile-friendly application built to reduce stress and anxiety, and all you ne
 _You Breathe In When Promted_ 
 
 <img src="img/breath in.png" width=100>
+
+_You Hold Your Breath When Promted_
+
+<img src="img/Hold.png" width=100>
+
+_You Then Exhale When Promted_
+
+<img src="img/breath out.png" width=100>
