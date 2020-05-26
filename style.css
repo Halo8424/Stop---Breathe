@@ -108,6 +108,7 @@ body {
     }
 }
 
+/* Shrink container animation */
 .container.shrink {
     animation: shrink 3s linear forwards;
 }
